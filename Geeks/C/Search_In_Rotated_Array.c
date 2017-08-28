@@ -3,6 +3,7 @@
 
 //Long Implementation of finding pivot. 
 //One can compare side elements in a sorted array to find out the pivot
+//Find short implementation on "find_sum_pair_in_rotated_array.c"
 int find_pivot(int arr[],int low, int high)
 {
 	if(low>high)
